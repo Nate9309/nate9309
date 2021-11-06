@@ -1,11 +1,11 @@
 # Hey, I'm Nate! 👋
 
 <p align="center">
-	<a href="https://publicpolicy.charlotte.edu/directory/nathan-duma"><img src="img/UNCCharlotte.svg" alt="UNC Charlotte"></a>
-	<a href="https://github.com/Nate9309"><img src="img/github.svg" alt="GitHub"></a>
-	<a href="https://www.linkedin.com/in/nathanduma/"><img src="img/linkedin.svg" alt="LinkedIn"></a>
-	<a href="https://terrytangyuan.github.io/cv.html"><img src="img/cv.svg" alt="Curriculum Vitae"></a>
-	<a href="https://scholar.google.com/citations?user=Pu9esBsAAAAJ&hl=en"><img src="img/citations.svg" alt="Publications"></a>
+	<a href="https://publicpolicy.charlotte.edu/directory/nathan-duma"><img src="img/UNC_Charlotte.png" alt="UNC Charlotte" width="80" height="19.76"></a> &emsp; &emsp;
+	<a href="https://github.com/Nate9309"><img src="img/github.png" alt="GitHub"></a> &emsp; &emsp;
+	<a href="https://www.linkedin.com/in/nathanduma/"><img src="img/linkedin.svg" alt="LinkedIn"></a> &emsp; &emsp;
+	<a href="https://drive.google.com/file/d/1L5CWMrkJLJlLXwwlo3KWBITLz6uu8Owh/view?usp=sharing"><img src="img/cv.svg" alt="Curriculum Vitae"></a> &emsp; &emsp;
+	<a href="https://scholar.google.com/citations?user=Pu9esBsAAAAJ&hl=en"><img src="img/citations.png" alt="Publications"></a>
 </p>
 
 
