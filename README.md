@@ -1,6 +1,7 @@
 # Hey, I'm Nate! 👋
 
 <p align="center">
+	<a href="https://publicpolicy.charlotte.edu/directory/nathan-duma"><img src="img/UNCCharlotte.svg" alt="UNC Charlotte"></a>
 	<a href="https://github.com/Nate9309"><img src="img/github.svg" alt="GitHub"></a>
 	<a href="https://www.linkedin.com/in/nathanduma/"><img src="img/linkedin.svg" alt="LinkedIn"></a>
 	<a href="https://terrytangyuan.github.io/cv.html"><img src="img/cv.svg" alt="Curriculum Vitae"></a>
