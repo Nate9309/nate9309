@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hey, I'm Nate! 👋
 
-<!--
-**Nate9309/nate9309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Doctoral Candidate at the University of North Carolina at Charlotte studying Environmental Policy.
 
-Here are some ideas to get you started:
+⭐ I am also interested in data anaytics, business analytics, machine learning, and telling stories through data visualisation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 I am seeking Data Science/Analysis and Survey Research related full-time roles and am open to relocate.
+
+### 📫 Reach me at 
+
+https://ucomm.charlotte.edu/sites/ucomm.charlotte.edu/files/styles/media_assets_thumbnail_16x9/public/media-assets/thumbnails/UNC_Charlotte_Primary_Vertical_Logo.png?itok=_yaJZR72
+
+[![UNCC](https://ucomm.charlotte.edu/sites/ucomm.charlotte.edu/files/styles/media_assets_thumbnail_16x9/public/media-assets/thumbnails/UNC_Charlotte_Primary_Vertical_Logo.png?itok=_yaJZR72) UNC Charlotte Bio](https://publicpolicy.charlotte.edu/directory/nathan-duma)
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/nathanduma/)
