@@ -9,7 +9,6 @@
 </p>
 
 
-
 I am a Doctoral Candidate at the University of North Carolina at Charlotte studying Environmental Policy.
 
 ⭐ I am also interested in data analytics, machine learning, and telling stories through data visualisation.
@@ -18,5 +17,6 @@ I am a Doctoral Candidate at the University of North Carolina at Charlotte study
 
 ### 📫 Reach me at 
 
+[![Gmail Badge](https://img.shields.io/badge/-nathannduma@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailnathannduma@gmail.com)](mailto:nathannduma@gmail.com)
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/nathanduma/)
