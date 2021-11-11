@@ -11,7 +11,7 @@
 
 I am a Doctoral Candidate at the University of North Carolina at Charlotte studying Environmental Policy.
 
-⭐ I am also interested in data analytics, machine learning, and telling stories through data visualisation.
+⭐ I am also interested in survey research, data analytics, and telling stories through data visualisation.
 
 💼 I am seeking Data Science/Analytics and Survey Research related full-time roles and am open to relocate.
 
